@@ -5,7 +5,7 @@ I am passionate about learning everything in the world of computer science and a
 
 🤹Technical Skills: Java, C++, C, JavaScript, Python, SQL, some R
 
-💻I also have some working knowledge in development tools and frontend/backend frameworks such as React.js, MongoDB, and Express.js.
+💻I also have some working knowledge in development tools and frontend/backend frameworks/tools such as React.js and MongoDB.
 
 👔I am particularly interested in **data science**, **machine learning**, and **software development**. I am currently working as a data science intern and will be an incoming software engineer intern starting Fall 2021! 😊
 
