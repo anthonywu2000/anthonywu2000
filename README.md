@@ -9,7 +9,7 @@ I am passionate about learning everything in the world of computer science and a
 
 👔I am particularly interested in **data science**, **machine learning**, and **software development**. I previously had my internships (co-op) at both data science and sofware engineering fields. 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anthony-wu-077430b5/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anthonywu.thepianist/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:yourEmail@domain.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anthony-wu-077430b5/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anthonywu.thepianist/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:anthonywudis@gmail.com)
 
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonywu2000&count_private=true&include_all_commits=true&show_icons=true&hide=stars,contribs&token=SECRET_TOKEN)   -->
