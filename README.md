@@ -15,6 +15,10 @@ Feel free to reach out to me for opportunities and interests!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=anthonywu2000&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+  
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achinth-b&layout=compact&show_icons=true&theme=nightowl" />
+</a>
 
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonywu2000&count_private=true&include_all_commits=true&show_icons=true&hide=stars,contribs&token=SECRET_TOKEN)   -->
