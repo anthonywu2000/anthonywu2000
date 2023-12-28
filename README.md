@@ -1,7 +1,7 @@
 ## Hi, I'm Anthony Wu! 👋🌏🇨🇦🇹🇼
 ### UBC Vancouver - Combined Major in Computer Science and Statistics 💻📈
 
-I am passionate about learning everything in the world of computer science and applying my knowledge to develop products and solve-real life problems!
+I am passionate about learning everything in the world of computer science and applying my knowledge to deliver products for everyone!
 
 🤹Languages: JavaScript, TypeScript, Python, Java, C++, SQL, HTML/CSS, R
 
