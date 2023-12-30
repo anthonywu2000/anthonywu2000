@@ -12,7 +12,6 @@ I am passionate about learning everything in the world of computer science and a
 - **Software Developer** @ Pershing Technology Services (Sept 2023 - Jan 2024)
 - **Software Engineer Intern** @ Realtor.com (Sept 2021 - Apr 2022)
 - **Data Science Research Fellow Intern** @ UBC Data Science Institute (May 2021 - Aug 2021)
-- **Software Quality Assurance Engineer Intern** @ BenQ Corporation (Jan 2021 - Jun 2021)
 
 Feel free to reach out to me for opportunities and interests!
 
