@@ -3,12 +3,12 @@
 
 I am passionate about learning everything in the world of computer science and applying my knowledge to deliver products for everyone!
 
-🤹Languages: JavaScript, TypeScript, Python, Java, C++, SQL, HTML/CSS, R
+🤹Languages: JavaScript, TypeScript, Python, Java, C/C++, SQL, HTML/CSS, R
 
 💻Tools/Frameworks: Node.js, Express.js, Axios, React.js, Tailwind CSS, MySQL, MongoDB, Microsoft SQL Server, Postman, Jest, JUnit, Mocha/Chai, Microsoft Azure, Docker, GitHub Actions, Jenkins, scikit-learn, NumPy, pandas, Git
 
 👔I am particularly interested in **applied machine learning** and **software development**. I previously had my internships (co-op) at both data science and sofware engineering fields. Below are some of my relevant experiences: <br /> 
-- **Incoming Software Engineer** @ Dell Technologies (Feb 2024 - present)
+- **Software Engineer I** @ Dell Technologies (Feb 2024 - present)
 - **Software Developer** @ Pershing Technology Services (Sept 2023 - Jan 2024)
 - **Software Engineer Intern** @ Realtor.com (Sept 2021 - Apr 2022)
 - **Data Science Research Fellow Intern** @ UBC Data Science Institute (May 2021 - Aug 2021)
