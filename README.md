@@ -1,13 +1,16 @@
 ## Hi, I'm Anthony Wu! 👋🌏🇨🇦🇹🇼
 ### UBC Vancouver - Combined Major in Computer Science and Statistics 💻📈
 
-I am passionate about learning everything in the world of computer science and applying my knowledge to deliver products for everyone!
+I am passionate about learning everything in the world of computer science and applying my knowledge to deliver intelligent products!
 
-🤹Languages: JavaScript, TypeScript, Python, Java, C++, C, SQL, HTML/CSS, R
+🤹Languages: JavaScript, TypeScript, Python, HTML/CSS, SQL, Java, C++
+💻Web Development: React.js, Angular, Node.js, Express.js, RESTful API Design, GraphQL, Tailwind CSS, Flask
+📊Databases: MySQL, Microsoft SQL Server, MongoDB, Redis
+🤖Machine Learning/Data Science: scikit-learn, pandas, NumPy, matplotlib/seaborn, PyTorch
 
-💻Tools/Frameworks: Node.js, Express.js, Axios, React.js, Tailwind CSS, MySQL, MongoDB, Microsoft SQL Server, Postman, Jest, JUnit, Mocha/Chai, Google Cloud Platform, Docker, GitHub Actions, Jenkins, scikit-learn, NumPy, pandas, Git
+📚Currently learning: AWS and cloud technologies....
 
-👔I am particularly interested in **applied machine learning** and **software development**. I previously had my internships (co-op) at both data science and sofware engineering fields. Below are some of my relevant experiences: <br /> 
+👔I am particularly interested in **applied machine learning** and in **full-stack software development**. I previously had my internships (co-op) at both data science and sofware engineering fields. Below are some of my relevant experiences: <br /> 
 - **Software Engineer I** @ Dell Technologies (Feb 2024 - present)
 - **Software Developer** @ Pershing Technology Services (Sept 2023 - Jan 2024)
 - **Software Engineer Intern** @ Realtor.com (Sept 2021 - Apr 2022)
