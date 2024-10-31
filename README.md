@@ -11,7 +11,7 @@ I am passionate about learning everything in the world of computer science and a
 
 🤖Machine Learning/Data Science: scikit-learn, pandas, NumPy, matplotlib/seaborn, R
 
-📚Currently learning: AWS and cloud technologies etc.., Kubernetes+Docker
+📚Currently learning: AWS and cloud technologies etc..
 
 👔I am particularly interested in **applied machine learning** and in **full-stack software development**. I previously had my internships (co-op) at both data science and sofware engineering fields. Below are some of my relevant experiences: <br /> 
 - **Software Engineer I** @ Dell Technologies (Feb 2024 - present)
